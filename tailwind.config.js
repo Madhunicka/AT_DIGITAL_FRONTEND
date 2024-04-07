@@ -17,6 +17,8 @@ module.exports = {
         accent2 : '#FFF8E0',
         error: '#FF0335',
         success : '#5EB30B',
+        back: '#FAF8FF',
+        color2:'#6F6C90',
         
        },
        height:{
